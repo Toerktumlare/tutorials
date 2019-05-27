@@ -3,9 +3,6 @@ package se.andolf.tutorials.monads;
 
 import org.junit.jupiter.api.Test;
 
-import java.sql.SQLOutput;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.*;

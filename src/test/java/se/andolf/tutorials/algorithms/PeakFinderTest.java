@@ -1,7 +1,6 @@
 package se.andolf.tutorials.algorithms;
 
 import org.junit.jupiter.api.Test;
-import se.andolf.tutorials.algorithms.PeakFinder;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
