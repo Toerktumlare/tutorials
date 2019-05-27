@@ -1,4 +1,4 @@
-package se.andolf;
+package se.andolf.tutorials.algorithms;
 
 import java.util.Arrays;
 
