@@ -13,6 +13,10 @@ import java.util.function.Supplier;
  * result of that computation in a Try type. The result can be
  * the computed value, or a throwable.
  *
+ * This is a simplification of Jason Goodwins better-java-mondas Try.class
+ * Check out his library here:
+ * https://github.com/jasongoodwin/better-java-monads
+ *
  * @param <T>
  */
 public abstract class Try<T> {
